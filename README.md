@@ -45,3 +45,5 @@ So, no need to duplicate manually and struggle with `git fetch` to get the remot
 
 
 ---
+
+This is a test squash merge change.
